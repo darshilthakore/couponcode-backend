@@ -114,6 +114,8 @@ Quit the server with CONTROL-C.
 
 - open the link in the browser `http://127.0.0.1:8000/`
 
+- You can now access the app at this link in your browser
+
 - you can test the api in postman or in the browser itself
 - Also check the available coupon codes from postman by referring the below mentioned api calls, also create any new coupon codes if needed through postman.
 
